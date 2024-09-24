@@ -1,0 +1,3 @@
+fastapi
+uvicorn # for server
+# uvicorn main:app --reload
